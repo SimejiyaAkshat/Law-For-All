@@ -33,6 +33,7 @@ a {
     height: 100%;
 }
 
+/* Stylesheet for Navbar */
 .nav {
     display: flex;
     width: 60%; 
